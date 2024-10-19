@@ -1,0 +1,10 @@
+site_name:  Test Mkdocs
+
+navi:
+  - Home: index.md 
+  - Varias cosas: varios.md
+  - Otras: otras.md 
+
+theme: material
+
+
