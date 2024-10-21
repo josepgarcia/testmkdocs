@@ -1,0 +1,3 @@
+baseurl: /testmkdocs 
+url: https://josepgarcia.github.io
+destination: ./site
